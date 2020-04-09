@@ -42,9 +42,8 @@ html{
     padding-left: 0;
     border-left: 0;
 }
-ul
-  {
-    padding: 10px;
+ul {
+    padding: 10px 0;
     margin: 0;
 }
 .saturs {
