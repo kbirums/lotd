@@ -9,10 +9,11 @@ html{
     margin:0;
     padding:0;
   }
-#logo{
-  width: 100px;
+  #logo {
+      width: 300px;
       filter: invert(1);
-}
+      padding-top: 40px;
+  }
   #header {
       background: #2c2c2c;
       min-width: 100%;
@@ -37,8 +38,8 @@ html{
     border-left: 1px solid #ffffff;
     margin-right: 3px;
 }
-.main_menu_item:nth-child(1){
-    padding-left: 5px;
+.main_menu_item:nth-child(1) {
+    padding-left: 0;
     border-left: 0;
 }
 ul
