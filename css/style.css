@@ -70,9 +70,10 @@ ul {
   margin:1px;
   float:right;
 }
-.raksta_virsraksts{
-  padding:1px;
-  margin:1px;
+.raksta_virsraksts {
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 10px;
 }
 .raksta_saturs {
     width: 70%;
