@@ -73,7 +73,9 @@ ul {
     float: left;
 }
 .raksts {
-    padding: 1px;
+    padding-top: 10px;
+}
+#popular{    font-size: 17px;
 }
 #small-virsraksts{
   font-size:13px;
