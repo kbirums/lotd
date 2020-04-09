@@ -48,6 +48,7 @@ ul
   border:1px solid grey;
   padding:1px;
   margin:1px;
+  float:left;
 }
 .raksts{
   border:1px solid grey;
@@ -59,6 +60,7 @@ ul
   border:1px solid grey;
   padding:1px;
   margin:1px;
+  float:right;
 }
 .Raksta_virsraksts{
   width:100%;
@@ -69,8 +71,10 @@ ul
 .raksta_saturs{
   width: 60%;
   padding-right:10%;
+  float:left;
 }
 .raksta_sidebar{
+  float:right;
   width: 30%;
   border:1px solid grey;
   padding:1px;
