@@ -3,7 +3,12 @@
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
 }
-html{background: whitesmoke;;}
+html{
+  background:   whitesmoke;}
+  body{
+    margin:0;
+    padding:0;
+  }
 #header{
       background: #2c2c2c;
       width:100%;
