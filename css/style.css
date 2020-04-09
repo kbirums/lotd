@@ -75,7 +75,7 @@ ul {
 }
 .raksta_virsraksts {
     padding-bottom: 10px;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #2c2c2c;
     margin-bottom: 10px;
 }
 .raksta_saturs {
@@ -93,10 +93,10 @@ ul {
     float: left;
     padding: 5px;
     margin: auto 0;
+    text-align: center;
 }
 .poga{
-  text-align: center;
-  background:black;
+  background:#2c2c2c;
   color:white;
   padding: 2px 5px;
   margin:10px;
