@@ -62,10 +62,11 @@ ul {
     margin: 0;
 }
 .saturs {
-      width: 1220px;
-      height: 900px;
-      margin: 0 auto;
-  }
+    width: 1220px;
+    height: 900px;
+    margin: 0 auto;
+    position: relative;
+}
 .sleja{
   max-width: 890px;
   padding-right: 30px;
@@ -79,11 +80,11 @@ ul {
 #small-virsraksts{
   font-size:13px;
 }
-.sidebar{
-  width:300px;
-  padding:1px;
-  margin:1px;
-  float:right;
+.sidebar {
+    position: relative;
+    margin: 1px;
+    float: left;
+    padding-left: 30px;
 }
 .raksta_virsraksts {
     padding-bottom: 10px;
