@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
-    object-fit: cover;
 }
 html{
   background:   whitesmoke;
@@ -11,7 +10,7 @@ body{
     padding:0;
   }
 img{
-  object-fit: cover; 
+  object-fit: cover;
 }
   #logo {
       width: 300px;
