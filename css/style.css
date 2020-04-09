@@ -67,12 +67,10 @@ ul {
     margin: 0 auto;
     position: relative;
 }
-.sleja{
-  max-width: 890px;
-  padding-right: 30px;
-  padding:1px;
-  margin:1px;
-  float:left;
+.sleja {
+    max-width: 890px;
+    padding-right: 30px;
+    float: left;
 }
 .raksts {
     padding: 1px;
@@ -82,10 +80,10 @@ ul {
 }
 .sidebar {
     position: relative;
-    margin: 1px;
     float: left;
-    padding-left: 30px;
+    margin-left: 30px;
     width: 300px;
+    height: 100%;
 }
 .raksta_virsraksts {
     padding-bottom: 10px;
