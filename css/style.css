@@ -8,14 +8,16 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-.izvelne{
+#header{
       background: #2c2c2c;
-      max-width: 1180px;
-      height: 152px;
-      padding: 10px 20px 0 20px;
-      color:white;
-      position: relative;
   }
+  .izvelne{
+        max-width: 1180px;
+        height: 152px;
+        padding: 10px 20px 0 20px;
+        color:white;
+        position: relative;
+    }
   .main_menu {
       padding-left: 10px;
       position: absolute;
