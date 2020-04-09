@@ -60,5 +60,21 @@ ul
   padding:1px;
   margin:1px;
 }
+.Raksta_virsraksts{
+  width:100%;
+  border:1px solid grey;
+  padding:1px;
+  margin:1px;
+}
+.raksta_saturs{
+  width: 60%;
+  padding-right:10%;
+}
+.raksta_sidebar{
+  width: 30%;
+  border:1px solid grey;
+  padding:1px;
+  margin:1px;
+}
 @media only screen and (max-width: 1013px) {}
 @media only screen and (max-width: 700px) {}
