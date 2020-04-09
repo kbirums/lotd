@@ -7,8 +7,10 @@
 html{
   background:   whitesmoke;
 }
-img{
-  object-fit: cover;
+img {
+    object-fit: cover;
+    width: 100%;
+    object-position: center;
 }
 h1{
     font-size: 35px;
@@ -153,6 +155,5 @@ ul {
 @media only screen and (max-width: 1013px) {}
 @media only screen and (max-width: 700px) {
   .sidebar {  display: none;}
-    .sleja {    padding: 20px;}
-
+    .sleja {  padding: 20px;}
 }
