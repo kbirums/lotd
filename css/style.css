@@ -124,6 +124,10 @@ ul {
 }
 .vērtība{font-size: 25px;
 }
+.reklama-side{
+  position: absolute;
+  top: 0;
+}
 #topic{
     background: black;
     color: white;
