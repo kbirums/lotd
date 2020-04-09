@@ -108,6 +108,10 @@ ul {
   width: 80%;
   font-weight: 300;
 }
+.poga:hover{
+  background:white;
+  color: #2c2c2c;
+}
 .vērtība{font-size: 25px;
 }
 @media only screen and (max-width: 1013px) {}
