@@ -154,6 +154,7 @@ ul {
 }
 @media only screen and (max-width: 1013px) {}
 @media only screen and (max-width: 700px) {
+.saturs{width: 100%;}
   .sidebar {
     display: none;}
     .sleja {
