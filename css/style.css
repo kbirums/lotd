@@ -9,9 +9,9 @@ html{
     margin:0;
     padding:0;
   }
-#header{
+  #header {
       background: #2c2c2c;
-      width:100%;
+      min-width: 100%;
   }
 .izvelne{
         max-width: 1220px;
