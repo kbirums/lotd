@@ -118,6 +118,7 @@ ul {
 .poga:hover{
   background:white;
   color: #2c2c2c;
+  outline:1px solid grey;
 }
 .vērtība{font-size: 25px;
 }
