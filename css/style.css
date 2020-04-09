@@ -186,4 +186,9 @@ ul {
 .poga {
     padding: 7px 5px;
 }
+h1 {
+    font-size: 30px;
+    font-weight: 400;
+    padding: 10px 0;
+}
 }
