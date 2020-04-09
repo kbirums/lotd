@@ -88,5 +88,8 @@ ul {
     width: 30%;
     padding: 1px;
 }
+.produkts{
+  width: 33%;
+}
 @media only screen and (max-width: 1013px) {}
 @media only screen and (max-width: 700px) {}
