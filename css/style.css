@@ -11,15 +11,14 @@ body{
 #header{
       background: #2c2c2c;
       width:100%;
-
   }
-  .izvelne{
+.izvelne{
         max-width: 1180px;
         height: 252px;
         padding: 10px 20px 0 20px;
         color:white;
         position: relative;
-          margin: 0 auto;
+        margin: 0 auto;
     }
   .main_menu {
       padding-left: 10px;
