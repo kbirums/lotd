@@ -43,11 +43,14 @@ p{
         position: relative;
         margin: 0 auto;
     }
-  .main_menu {
-      padding-left: 10px;
-      position: absolute;
-      bottom: 0;
-  }
+    .main_menu {
+        width: 100%;
+        overflow-y: auto;
+        white-space: nowrap;
+        padding-left: 10px;
+        position: absolute;
+        bottom: 0;
+    }
   .bilde{
     height: 200px;
     overflow: hidden;
