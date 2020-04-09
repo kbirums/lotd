@@ -163,12 +163,20 @@ ul {
         padding: 20px;
         max-width: 100%;
         }
+        .bilde {
+    height: 700px;
+    overflow: hidden;
+    object-position: center;
+}
 }
 @media only screen and (max-width: 700px) {
   #logo {
     width: 50%;
     filter: invert(1);
     padding-top: 10px;
+}
+.bilde {
+    height: 300px;
 }
 .izvelne {
     width: 100%;
