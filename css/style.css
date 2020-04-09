@@ -9,6 +9,9 @@ html{
     margin:0;
     padding:0;
   }
+#logo{
+  width: 100px;
+}
   #header {
       background: #2c2c2c;
       min-width: 100%;
