@@ -4,10 +4,6 @@
     object-fit: cover;
 }
 html{background: whitesmoke;;}
-body{
-  max-width: 1220px;
-  margin: 0 auto;
-  }
 #header{
       background: #2c2c2c;
       width:100%;
