@@ -17,6 +17,7 @@ html{
   #header {
       background: #2c2c2c;
       min-width: 100%;
+      margin-bottom: 10px;
   }
 .izvelne{
         max-width: 1220px;
