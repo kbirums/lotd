@@ -176,11 +176,14 @@ ul {
       display: none;
     }
     .sleja {
-      padding: 20px;
+      padding: 5px;
       max-width: 100%;
       }
       .raksta_saturs {
     width: 100%;
     padding: 0;
+}
+.poga {
+    padding: 7px 5px;
 }
 }
