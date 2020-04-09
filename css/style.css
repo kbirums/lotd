@@ -73,9 +73,11 @@ ul {
   margin:1px;
   float:left;
 }
-.raksts{
-  padding:1px;
-  margin:1px;
+.raksts {
+    padding: 1px;
+}
+#small-virsraksts{
+  font-size:13px;
 }
 .sidebar{
   width:300px;
